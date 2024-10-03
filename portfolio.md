@@ -33,6 +33,8 @@ Vous concevrez l'interface utilisateur, vous créerez des sections pour présent
 
 ## Planification du projet
 
+A la fin de chaque journée, un point sera fait par les formateurs afin d'évaluer l'avancement de l'apprenant sur son projet.
+
 ### JOUR 1 : Conception du portfolio (8 heures)
 * Matin (4 heures)
   * 1
