@@ -21,7 +21,27 @@ Vous concevrez l'interface utilisateur, vous créerez des sections pour présent
 
 ### 3. Intégration des contenus
 
+### 4. Optimisation et Responsive design
+
+### 5. Déploiement en ligne
+
+### 6. Test et révisions
+
+### 7. Présentation
+
 
 
 ## Planification du projet
+
+### JOUR 1 : Conception du portfolio (8 heures)
+* Matin (4 heures)
+  ** 1
+  ** 2
+* Après-midi (4 heures)
+  ** 1
+  ** 2
+  ** 3
+
+  
+
 
