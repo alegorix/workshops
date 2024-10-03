@@ -1,2 +1,2 @@
-# workshops
+# Liste des Workshops
 [Portfolio](portfolio.md)
