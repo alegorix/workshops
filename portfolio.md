@@ -23,6 +23,8 @@ Vous concevrez l'interface utilisateur, vous créerez des sections pour présent
 Vous ajouterez du contenu pertinent à votre portfolio, notamment des informations utiles sur vous, votre parcours scolaire, vos compétences techniques, des exemples de projets précédents avec des descriptions, des liens vers des codes sources sur des plateformes comme GitHub, des liens vers votre profil sur des réseaux professionnels tels que Linkedin.
 
 ### 4. Optimisation et Responsive design
+Vous vous assurerez que votre portfolio est optimisé pour les appareils mobiles et en différentes tailles et résolutions d'écrans.
+Vous pouvez également implémenter des animations ou des effets pour rendre votre portfolio plus attrayant.
 
 ### 5. Déploiement en ligne
 
