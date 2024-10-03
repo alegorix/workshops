@@ -35,12 +35,12 @@ Vous concevrez l'interface utilisateur, vous créerez des sections pour présent
 
 ### JOUR 1 : Conception du portfolio (8 heures)
 * Matin (4 heures)
-  ** 1
-  ** 2
+  * 1
+  * 2
 * Après-midi (4 heures)
-  ** 1
-  ** 2
-  ** 3
+  * 1
+  * 2
+  * 3
 
   
 
