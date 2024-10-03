@@ -12,6 +12,8 @@ Dans cette première étape, vous devez plannifier la conception de votre portfo
 
 Vous devez choisir un style, une mise en page et une structure qui reflète votre personnalité et vos objectifs professionnels.
 
+Vous pourrez créer des croquis (Mockups), par exemple en utilisant Figma, ou créer des maquettes afin de visualiser vos idées.
+
 
 
 
