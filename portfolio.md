@@ -7,7 +7,7 @@ Un portfolio en ligne est essentiel pour un développeur, il vous permettra de p
 L'intégration d'un formulaire de contact fonctionnel est obligatoire (Si une entreprise veut vous contacter).
 
 ## Etapes du projet
-### Conception du portfolio
+### 1. Conception du portfolio
 Dans cette première étape, vous devez plannifier la conception de votre portfolio.
 
 Vous devez choisir un style, une mise en page et une structure qui reflète votre personnalité et vos objectifs professionnels.
