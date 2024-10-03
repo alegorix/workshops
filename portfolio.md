@@ -4,7 +4,7 @@ Les participants sont chargés de concevoir, développer et déployer leur propr
 
 Un portfolio en ligne est essentiel pour un développeur, il vous permettra de présenter vos compétences, vos réalisations et vos travaux antérieurs de manière professionnelle.
 
-L'intégration d'un formulaire de contact fonctionnel est obligatoire (Si une entreprise veut vous contacter).
+L'intégration d'un formulaire de contact fonctionnel est obligatoire (surtout si une entreprise veut vous contacter).
 
 ## Etapes du projet
 ### 1. Conception du portfolio
