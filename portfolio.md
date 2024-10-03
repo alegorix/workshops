@@ -42,6 +42,51 @@ Vous concevrez l'interface utilisateur, vous créerez des sections pour présent
   * 2
   * 3
 
+### JOUR 2 : Développement web (8 heures)
+* Matin (4 heures)
+  * 1
+  * 2
+* Après-midi (4 heures)
+  * 1
+  * 2
+  * 3
+
+### JOUR 3 : Intégration des contenus (8 heures)
+* Matin (4 heures)
+  * 1
+  * 2
+* Après-midi (4 heures)
+  * 1
+  * 2
+  * 3
+ 
+ ### JOUR 4 : Optimisation et Responsive design (8 heures)
+* Matin (4 heures)
+  * 1
+  * 2
+* Après-midi (4 heures)
+  * 1
+  * 2
+  * 3
+
+### JOUR 5 : Déploiement en ligne (8 heures)
+* Matin (4 heures)
+  * 1
+  * 2
+* Après-midi (4 heures)
+  * 1
+  * 2
+  * 3
+
+### JOUR 6 : Tests, révisions et présentation (8 heures)
+* Matin (4 heures)
+  * 1
+  * 2
+* Après-midi (4 heures)
+  * 1
+  * 2
+  * 3
+    
   
 
 
