@@ -48,12 +48,12 @@ A la fin de chaque journée, un point sera fait par les formateurs afin d'évalu
 
 ### JOUR 1 : Conception du portfolio (8 heures)
 * Matin (4 heures)
-  * 1
-  * 2
+  * Introduction au projet et définition des objectifs
+  * Présentation de différents styles de portfolios
 * Après-midi (4 heures)
-  * 1
-  * 2
-  * 3
+  * Les participants planifient et esquissent leurs portfolios sur papier
+  * Choix de la mise en page, de la structure, des couleurs et de la typographie
+  * Création de croquis ou de maquettes à l'aide d'outils comme Figma ou papier et crayon
 
 ### JOUR 2 : Développement web (8 heures)
 * Matin (4 heures)
