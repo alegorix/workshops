@@ -24,15 +24,23 @@ Vous ajouterez du contenu pertinent à votre portfolio, notamment des informatio
 
 ### 4. Optimisation et Responsive design
 Vous vous assurerez que votre portfolio est optimisé pour les appareils mobiles et en différentes tailles et résolutions d'écrans.
+
 Vous pouvez également implémenter des animations ou des effets pour rendre votre portfolio plus attrayant.
 
 ### 5. Déploiement en ligne
+Une foix que votre portfolio est prêt, vous devrez le déployer en ligne.
+
+Vous pourrez utiliser des services d'hébergement web gratuits ou payants afin de rendre votre portfolio accessible au public.
 
 ### 6. Test et révisions
+Vous devrez tester votre portfolio sur différents navigateurs et appareils pour vous assurer qu'il fonctionne correctement.
+
+Vous pourrez demander aux autres participants de commenter votre travail afin d'effectuer des révisions.
 
 ### 7. Présentation
+A la fin du projet, vous présentez votre portfolio au groupe.
 
-
+Vous expliquerez clairement vos choix de conception, vos compétences pour y arriver et les défis que vous avez rencontrés.
 
 ## Planification du projet
 
