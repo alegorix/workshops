@@ -57,19 +57,18 @@ A la fin de chaque journée, un point sera fait par les formateurs afin d'évalu
 
 ### JOUR 2 : Développement web (8 heures)
 * Matin (4 heures)
-  * 1
-  * 2
+  * 1 Introduction aux langages HTML, CSS et PHP (et Javascript en option)
+  * 2 Création de la structure de base du portfolio
 * Après-midi (4 heures)
-  * 1
-  * 2
-  * 3
+  * 1 Styles CSS pour l'interface utilisateur
+  * 2 Développement des sections de profil, compétences, projets et expérience
 
 ### JOUR 3 : Intégration des contenus (8 heures)
 * Matin (4 heures)
-  * 1
-  * 2
+  * 1 Ajout du contenu (informations personnelles, parcours scolaire et compétences techniques)
+  * 2 Ajout d'exemples de projets précédents avec des descriptions
 * Après-midi (4 heures)
-  * 1
+  * 1 
   * 2
   * 3
  
