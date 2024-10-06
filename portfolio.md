@@ -81,22 +81,21 @@ A la fin de chaque journée, un point sera fait par les formateurs afin d'évalu
 
 ### JOUR 5 : Déploiement en ligne (8 heures)
 * Matin (4 heures)
-  * 1
-  * 2
+  * 1 Choix d'un service d'hébergement web (par exemple GitHub pages)
+  * 2 Configuration du nom de domaine (si voulu et si disponible)
 * Après-midi (4 heures)
-  * 1
-  * 2
-  * 3
+  * 1 Déploiement du portfolio en ligne
+  * 2 Vérification du bon fonctionnement et de l'accessibilité
 
 ### JOUR 6 : Tests, révisions et présentation (8 heures)
 * Matin (4 heures)
-  * 1
-  * 2
+  * 1 Tests approfondis sur différents appareils et navigateurs
+  * 2 Collecte de commentaires des autres personnes afin de réaliser des révisions finales
 * Après-midi (4 heures)
-  * 1
-  * 2
-  * 3
-    
+  * 1 Préparation de la présentation individuelle
+  * 2 Présentation des portfolios au groupe, en expliquant vos choix de conception et des compétences mises en oeuvre
+ 
+
   
 
 
