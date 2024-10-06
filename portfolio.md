@@ -15,7 +15,7 @@ Vous devez choisir un style, une mise en page et une structure qui reflète votr
 Vous pourrez créer des croquis (Mockups), par exemple en utilisant Figma, ou créer des maquettes afin de visualiser vos idées.
 
 ### 2. Développement web
-Vous utiliserez HTML, CSS, PHP et éventuellement Javascript (non-obligatoire) pour créer les pages de votre portfolio.
+Vous utiliserez HTML, CSS, PHP et éventuellement Javascript (non-obligatoire) pour créer votre portfolio.
 
 Vous concevrez l'interface utilisateur, vous créerez des sections pour présenter votre profil, vos compétences, vos projets et votre expérience.
 
