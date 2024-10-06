@@ -68,18 +68,16 @@ A la fin de chaque journée, un point sera fait par les formateurs afin d'évalu
   * 1 Ajout du contenu (informations personnelles, parcours scolaire et compétences techniques)
   * 2 Ajout d'exemples de projets précédents avec des descriptions
 * Après-midi (4 heures)
-  * 1 
-  * 2
-  * 3
+  * 1 Intégration de liens vers GitHub, Linkedin et autres profils professionnels
+  * 2 Révision et ajustement du contenu
  
  ### JOUR 4 : Optimisation et Responsive design (8 heures)
 * Matin (4 heures)
-  * 1
-  * 2
+  * 1 Optimisation de la performance du site (compression d'images, minimisation du code...)
+  * 2 Test de compatibilité avec différents navigateurs
 * Après-midi (4 heures)
-  * 1
-  * 2
-  * 3
+  * 1 Adaptation du design pour le responsive (utilisation des medias queries)
+  * 2 Ajout d'animations ou d'effets (si besoin)
 
 ### JOUR 5 : Déploiement en ligne (8 heures)
 * Matin (4 heures)
