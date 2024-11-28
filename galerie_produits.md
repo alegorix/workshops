@@ -2,7 +2,9 @@
 ## Description du projet
 Les participants sont chargés d'analyser les besoins de l'application d'un point de vue base de données et logique en plus de l'aspect esthétique.
 
-La base de données et l'analyse leur seront fournies pour ce projet après en avoir débattu avec eux, l'analyse ayant été faite au préalable par les formateurs. Ce projet pourra également être poussé sur Github afin d'y être visible sur leur profil. Il devra également être ajouté sur le portfolio réalisé auparavant.
+La base de données et l'analyse leur seront fournies pour ce projet après en avoir débattu avec eux, l'analyse ayant été faite au préalable par les formateurs. 
+
+Ce projet pourra également être poussé sur Github afin d'y être visible sur leur profil. Il devra également être ajouté sur le portfolio réalisé auparavant.
 
 ## Etapes du projet
 ### 1. Analyse des besoins
@@ -81,7 +83,7 @@ A la fin de chaque journée, un point sera fait par les formateurs afin d'évalu
   * Intégration de la barre de navigation et des éléments visuels
 * Après-midi (4 heures)
   * Création du formulaire d'envoi de données en HTML.
-  * Développement de la page de consultation des données.
+  * Développement de la page de consultation des données
  
  ### JOUR 4 : Mise en place du formulaire de mise à jour et des fonctionnalités (8 heures)
 * Matin (4 heures)
@@ -105,7 +107,7 @@ A la fin de chaque journée, un point sera fait par les formateurs afin d'évalu
 * Matin (4 heures)
   * Utilisation de MySQL pour gérer la base de données
 * Après-midi (4 heures)
-  * Établissement de la connexion entre la base de données et l'application PHP.
+  * Établissement de la connexion entre la base de données et l'application PHP
   
 ### JOUR 8 : Tests, Débogage, Publication et Documentation (8 heures)
 * Toute la journée
