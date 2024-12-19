@@ -120,4 +120,4 @@ A la fin de chaque journée, un point sera fait par les formateurs afin d'évalu
 ### JOUR 9 : Préparation et présentations individuelles (8 heures)
 * Toute la journée
   * Préparation minutieuse des présentations individuelles
-  * Présentations devant el groupe, partage d'expériences, explicitation des défis et des réussites du projet
+  * Présentations devant le groupe, partage d'expériences, explicitation des défis et des réussites du projet
