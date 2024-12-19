@@ -36,7 +36,7 @@ Cela inclut l'insertion de nouveaux produits, la récupération des produits exi
 
 Ils devront également mettre en œuvre une fonction de restauration pour les produits supprimés.
 
-### 5. Intégration de al base de Données (MySQL)
+### 5. Intégration de la base de Données (MySQL)
 Les apprenants utiliseront MysQL pour gérer al base de données (un script de création de celle-ci leur sera fourni) qui stockera les informations sur les produits. 
 
 Ils devront stocker les données et s'assurer que la base de données est correctement connectée à l'application PHP (PDO).
