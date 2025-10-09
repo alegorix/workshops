@@ -1,0 +1,42 @@
+/* style.css */
+
+/* Importation d'une police depuis Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Personnalisation des couleurs */
+:root {
+    --primary-color: #007bff; /* Bleu Bootstrap par défaut */
+    --secondary-color: #6c757d;
+    --light-color: #f8f9fa;
+    --dark-color: #343a40;
+}
+
+/* Surcharger les couleurs de Bootstrap (exemple) */
+.bg-primary {
+    background-color: var(--primary-color) !important;
+}
+
+/* Effet de zoom sur les cartes de projet */
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Style pour la section d'accueil */
+#accueil {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('votre-image-de-fond.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Prend toute la hauteur de l'écran */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#contact {
+	padding-bottom:300px !important;
+}
