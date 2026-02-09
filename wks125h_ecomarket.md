@@ -1,6 +1,6 @@
-# 📂 Workshop Développement Web : EcoMarket Pro (125h)
+# Workshop Développement Web : EcoMarket Pro (125h)
 
-## 📑 Informations Générales
+## Informations Générales
 * **Durée :** 125 heures (15 séances de 8h + 5h finales)
 * **Équipe :** Groupes de 4 personnes
 * **Technologies :** PHP Procédural, MySQL, Bootstrap 5, JavaScript
@@ -8,12 +8,12 @@
 
 ---
 
-## 📝 Le Concept
+## Le Concept
 Développer **EcoMarket**, une plateforme où chaque utilisateur peut vendre et acheter des objets d'occasion. Le projet simule une commande réelle en agence : de la conception de la base de données à la mise en ligne d'un produit fini et sécurisé.
 
 ---
 
-## 🎯 Objectifs de l'Atelier
+## Objectifs de l'Atelier
 1.  **Conception :** Modéliser une base de données complexe (10+ tables).
 2.  **Architecture :** Organiser un projet PHP procédural de grande envergure de manière modulaire.
 3.  **Sécurité :** Implémenter des protections contre les failles SQL et XSS sans framework.
@@ -21,7 +21,7 @@ Développer **EcoMarket**, une plateforme où chaque utilisateur peut vendre et 
 
 ---
 
-## 🏗️ Structure de Dossiers Imposée
+## Structure de Dossiers Imposée
 Pour éviter le "code spaghetti", la structure suivante est obligatoire :
 
 
@@ -35,7 +35,7 @@ Pour éviter le "code spaghetti", la structure suivante est obligatoire :
 
 ---
 
-## 🛠️ Fonctionnalités du MVP (Minimum Viable Product)
+## Fonctionnalités du MVP (Minimum Viable Product)
 
 ### 1. Gestion des Comptes
 * Inscription (hachage `password_hash`) et Connexion.
@@ -54,7 +54,7 @@ Pour éviter le "code spaghetti", la structure suivante est obligatoire :
 
 ---
 
-## 📅 Planning des Séances (15 x 8h)
+## Planning des Séances (15 x 8h)
 
 | Phase | Séances | Objectifs |
 | :--- | :--- | :--- |
@@ -69,7 +69,7 @@ Pour éviter le "code spaghetti", la structure suivante est obligatoire :
 
 ---
 
-## ⚠️ Les 5 Commandements de la Qualité (Pièges à éviter)
+## Les 5 Commandements de la Qualité (Pièges à éviter)
 
 1.  **Séparation des pouvoirs :** Aucun code de traitement SQL ou de redirection (`header('Location...')`) ne doit se trouver au milieu du HTML.
 2.  **Sécurité PDO :** Utilisation systématique de `prepare()` et `execute()`. Aucune variable directe dans les requêtes.
@@ -79,7 +79,7 @@ Pour éviter le "code spaghetti", la structure suivante est obligatoire :
 
 ---
 
-## 🎨 Analyse Visuelle (Cahier de style)
+## Analyse Visuelle (Cahier de style)
 
 * **Grid System :** Utiliser les classes `row-cols-1 row-cols-md-3` pour les listes d'annonces.
 * **Modales :** Obligatoires pour les actions de suppression (confirmation).
